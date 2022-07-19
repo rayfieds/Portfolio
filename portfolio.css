@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://i.pinimg.com/564x/83/e0/4b/83e04bbb00414e1604e704530f43b827.jpg");
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+      .p1 {
+        font-size: 13px;
+        font-family: Verdana, Geneva, sans-serif;
+      }
+      .h1{
+        font-size:16px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      }
