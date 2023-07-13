@@ -1,6 +1,4 @@
-body {
-    background-image: url("https://i.pinimg.com/564x/83/e0/4b/83e04bbb00414e1604e704530f43b827.jpg");
-    }
+body {background-color: #d7ceeb;}
     .center {
         display: block;
         margin-left: auto;
@@ -15,3 +13,19 @@ body {
         font-size:16px;
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
       }
+
+      a:link {
+        color: Black;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      a:visited {
+        color: pink;
+        background-color: transparent;
+        text-decoration: none;
+
+/* https://i.pinimg.com/564x/83/e0/4b/83e04bbb00414e1604e704530f43b827.jpg */
